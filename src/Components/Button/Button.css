@@ -1,0 +1,39 @@
+.click {
+    transition: 0.2s all;
+}
+.click:active {
+    filter: brightness(1.5);
+}
+.circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    /*padding: 10px 0;*/
+}
+.oval {
+    width: 156px;
+    height: 70px;
+    border-radius: 35px;
+}
+.val {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+}
+.space {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 0 1rem;
+ }
+.light {
+    background-color: #a5a5a5;
+}
+.dark {
+    background-color: #333333;
+}
+.orange {
+    background-color: #fe9a0e;
+}

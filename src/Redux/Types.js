@@ -1,0 +1,9 @@
+export const GET_CHAR = 'DATA/GET_CHAR';
+export const CLEAR_DATA = 'DATA/CLEAR_DATA';
+export const SET_OUT = 'DATA/SET_OUT';
+export const SET_MINUS = 'DATA/SET_MINUS';
+export const CHANGE_SET_MINUS = 'DATA/CHANGE_SET_MINUS';
+export const CLEAR_SCREEN = 'DATA/CLEAR_SCREEN';
+export const MEM_CHANGE = 'MEMORY/MEM_CHANGE';
+export const MEM_CLEAR = 'MEMORY/MEM_CLEAR';
+export const RESULT = 'MEMORY/RESULT';
